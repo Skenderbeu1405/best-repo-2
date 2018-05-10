@@ -42,5 +42,7 @@ adding some custom content from my favorite text editor
 
   ) Select /*Distinct*/
   ...
+
 making a change to the same line for SF module purposes
 making a change to the same line for SF module purposes
+
